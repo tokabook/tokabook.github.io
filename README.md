@@ -1,14 +1,11 @@
-# tokabook's Portfolio
-
-システムエンジニアをしながら、趣味で小説を執筆しています。
-現在は名古屋を拠点に、リモートワークでシステム開発に携わっています。
+I write original and fan fiction.
 
 ---
 
-## 🛠 Skills
-* **Engineering:** システム改修、バックエンド開発
-* **Tools:** Git, GitHub, Hugo, NovelAI (Illustration)
-* **Assets:** 高配当株投資・資産形成
+## 👨‍💻 Profile
+* **Name:** tokabook
+* **From:** Japan
+* **Mail:** xxx@xxx
 
 ---
 
@@ -21,7 +18,7 @@
 
 ---
 
-## 👨‍💻 Projects
+## 🛠 Projects
 * **システム改修プロジェクト:** 入出荷管理システムのモディファイを担当
 * **自己紹介サイト構築:** このサイト（GitHub Pages + Jekyll/Hugo）
 
