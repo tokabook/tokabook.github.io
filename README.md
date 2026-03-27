@@ -1,30 +1,23 @@
-I write original and fan fiction.
+# tokabook.net
+
+tokabookが執筆したオリジナル＆二次創作小説の創作履歴です。  
+ご用がある方はdaikei0718[あっとまーく]gmail.com、  
+または[X(Twitter)](https://x.com/tokabook718){:target="_blank"}のDMまで。
 
 ---
 
-## 👨‍💻 Profile
-* **Name:** tokabook
-* **From:** Japan
-* **Mail:** xxx@xxx
+## 📚 創作年表
 
+<details>
+<summary>1999</summary>
+- 『まもって守護月天！』
+  - キリュウの幸せ
+  - 着替えて万難地天
+  - キリュウの休日
+  - パニック！記憶喪失
+  - 彼女が万難地天になった理由
+  - 染井吉野の木の下で
+  - ぬくもりという名の優しさ
+</details>
 ---
 
-## 📚 Writing Works
-執筆活動では「**橙（だいだい）**」というペンネームで活動しています。
-
-* **ミステリー小説:** 現在新作を執筆中
-* **過去作品アーカイブ:** [こちらから閲覧できます（リンク先URL）]
-* **note:** [日々の思考や執筆記録（リンク先URL）]
-
----
-
-## 🛠 Projects
-* **システム改修プロジェクト:** 入出荷管理システムのモディファイを担当
-* **自己紹介サイト構築:** このサイト（GitHub Pages + Jekyll/Hugo）
-
----
-
-## Contact
-お気軽にSNS等でご連絡ください。
-
-[X (Twitter)](https://twitter.com/あなたのユーザー名) / [GitHub](https://github.com/tokabook)
