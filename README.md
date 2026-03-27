@@ -1,4 +1,3 @@
-# tokabook.net
 
 tokabookが執筆したオリジナル＆二次創作小説の創作履歴です。  
 ご用がある方はdaikei0718[あっとまーく]gmail.com、  
